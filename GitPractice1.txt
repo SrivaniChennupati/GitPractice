@@ -1,1 +1,9 @@
-this is test practice by pavithra
+<<<<<<< HEAD
+this is test practice by pavithra  
+=======
+<<<<<<< HEAD
+This is a line updated by rohini
+=======
+Please stay at Home
+>>>>>>> 8a75026a1609caa95629c2004af78428e804ac46
+>>>>>>> e5e4e945766721f1312e3ff1459cbe494c9ad3f7

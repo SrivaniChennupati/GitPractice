@@ -1,1 +1,5 @@
-this is test practice by pavithra
+<<<<<<< HEAD
+this is test practice by pavithra  
+=======
+This line is updated by Rohini
+>>>>>>> e5e4e945766721f1312e3ff1459cbe494c9ad3f7
